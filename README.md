@@ -15,6 +15,15 @@ Getting an API key from Pexels:
 3. Provide the necessary details and submit application.
 4. Once application is done, get your API key and set it as the value of the apiKey var in script.js:111.
 
+Running the Website:
+1. First make sure that you do the steps above. ^^^^
+2. Go to the ws_server folder and run "node websocket.js"
+3. Go to the index.html and run it with live server on VS code.
+4. Follow the instruction on the website to search.
+
+*Warning*
+Your API keys may not activate instantly after you created your account and copied the API keys. It is recommended to wait a bit so the API keys can activate.
+
 Members:
 Cunanan, John Michael
 Mercado, Julian Gabriel L.
