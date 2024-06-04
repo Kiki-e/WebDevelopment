@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "stack": "^0.1.0",
+    "ws": "^8.17.0"
+  }
+}
