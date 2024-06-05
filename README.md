@@ -17,7 +17,7 @@ Getting an API key from Pexels:
 
 Running the Website:
 1. First make sure that you do the steps above. ^^^^
-2. Go to the ws_server folder and run "node websocket.js"
+2. Go to the ws_server folder and run "node websocket.js" on cmd.
 3. Go to the index.html and run it with live server on VS code.
 4. Follow the instruction on the website to search.
 
